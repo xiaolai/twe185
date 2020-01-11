@@ -1,4 +1,17 @@
-#1. Why people attend college?
+#28. Do you agree or disagree with following statement? Parents today are more involved in their children&s education than were parents in the past.
+
+Nowadays more and more parents spend much time and money to help their children's education. From my perspective, parents in current are more involved in their children's education than in previous.
+they desire their children to have
+
+First of all, most parents concerns with the qualify of their children's future life,and the importance of diploma is getting much higher than any before. For instance, if you got the high-qualified education, you can obtain more choices,higher salaries, and more oppuntities for advancement in an increasingly competitive job market. Considering this, parents desire their children to access a higher diploma to be qualified for previously unavailable jobs,even it requires them to make an effort to participate their children's education.
+
+Additionally, in previous, because of the restriction of knowledge of education, only few parents were capality of playing a role in their children's education. Most parents chosen to trust teachers and did nothing. But times change as information revolution.Now parents could receive tremendous messages about their children's education if they wish. They can got swifter feedback from the teachers and communicate with other parents real-time. And there are countless informations in the internet. So they can play an aggressive role in their children's life.
+
+Finally, in old days, parents before may spent more time on work. It reduced the time they can put on their children's life which was differnet with now. Now more and more companies and faculies achieve a work-life balanced policy. After severvl hours work, parents can stay home with their children. There's no doult the time parents spent with their children has increased in the past.
+
+In short, the increase of education's importance,the strengen of the information-receive ability and frequence of communication, and more spare time, those three strong factors decided parents make
+
+
 
 After graduating from high school many young people have the option to directly enter the work force. Most students who have the opportunity, however, decide to go to college before finding jobs. They attend college to obtain more choices, higher salaries, and more opportunities for advancement in an increasingly competitive job market.
 
@@ -37,4 +50,4 @@ Finally, in addition to offering more choices and higher salaries, a college deg
  * premium ［ˈprimjəm］ n. 额外费用
  * career ［kəˈriə］ n. 事业，生涯
  * applicant ［ˈæplikənt］ n. 申请者
- * B.S. n. 学士学位 (Bachelor of Science) 
+ * B.S. n. 学士学位 (Bachelor of Science)
